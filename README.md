@@ -2,7 +2,7 @@
 
 ### 🚀 Sempre em busca da evolução.
 
-Sou uma pessoa apaixonada por tecnologia, desenvolvimento e aprendizado contínuo. Estou sempre buscando novos conhecimentos, aprimorando minhas habilidades e explorando novas possibilidades na programação.
+Sou apaixonado por tecnologia, desenvolvimento e aprendizado contínuo. Estou sempre buscando novos conhecimentos, aprimorando minhas habilidades e explorando novas possibilidades na programação.
 
 ---
 
@@ -38,12 +38,22 @@ Sou uma pessoa apaixonada por tecnologia, desenvolvimento e aprendizado contínu
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 <div align="center">
+
   <a href="https://github.com/Ferpajr/imc">
-    <img width="60%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ferpajr&repo=imc&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ferpajr&repo=imc&theme=tokyonight&hide_border=true" />
   </a>
+
+  <a href="https://github.com/Ferpajr/realtime-voice-translator">
+    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ferpajr&repo=realtime-voice-translator&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Ferpajr/Banco">
+    <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=Ferpajr&repo=Banco&theme=tokyonight&hide_border=true" />
+  </a>
+
 </div>
 
 ---
@@ -56,4 +66,10 @@ Sou uma pessoa apaixonada por tecnologia, desenvolvimento e aprendizado contínu
 
 ---
 
-<div align="center
+<div align="center">
+
+### 💡 "Sempre em busca da evolução."
+
+🚀 Obrigado pela visita!
+
+</div>
